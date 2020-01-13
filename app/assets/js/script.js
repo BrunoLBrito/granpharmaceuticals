@@ -86,6 +86,7 @@ btn.onclick = () => {
 form.onsubmit = e => {
 	e.preventDefault()
 	btnSubmit.disabled = true
+	btnSubmit.innerHTML = 'Enviando email...'
 
 	let data = new FormData(form)
 	let options = {
@@ -96,6 +97,8 @@ form.onsubmit = e => {
 	fetch('https://emailgf.herokuapp.com/send.php', options)
 		.then(response => response.json())
 		.then(result => {
+			btnSubmit.innerHTML = 'Enviar'
+			console.log(result)
 			if (result.indexOf('Opss') > -1) {
 				Swal.fire({
 					title: result,
@@ -112,7 +115,11 @@ form.onsubmit = e => {
 			form.reset()
 			btnSubmit.disabled = false
 		})
-		.catch(err => console.log(err))
+		.catch(err => {
+			console.log(err)
+			alert('Email não enviado, atualize a página e tente novamente!')
+			btnSubmit.innerHTML = 'Enviar'
+		})
 }
 
 // Produtos
