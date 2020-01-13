@@ -1,0 +1,10 @@
+node_modules/
+vendor/
+.htaccesss
+.htaccess
+.user.ini
+composer.json
+composer.lock
+contador.php
+send.php
+visitas.txt
