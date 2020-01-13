@@ -1,236 +1,236 @@
 {
-    "product": [
-        {
-            "title": "DIANABOL",
-            "amount": "50mg/ml - Frasco de 30ml (Injetável)",
-            "category": "injetado",
-            "image": false,
-            "description": "A Metandrostenolona, também conhecido como Dianabol é um derivado da testosterona que exibe fortes propriedades anabólicas e propriedades androgênicas moderadas. Ele é o esteroide usado para aumento de Desempenho Força, Massa Muscular, Aumento de Peso, Performance e Melhoramento Físico.",
-            "isValidated": false
-        },
-        {
-            "title": "DIANABOL",
-            "amount": "10mg/caps - Frasco de 100caps (Oral)",
-            "category": "oral",
-            "image": false,
-            "description": "A Metandrostenolona, também conhecido como Dianabol é um derivado da testosterona que exibe fortes propriedades anabólicas e propriedades androgênicas moderadas. Ele é o esteroide usado para aumento de Desempenho Força, Massa Muscular, Aumento de Peso, Performance e Melhoramento Físico.",
-            "isValidated": false
-        },
-        {
-            "title": "OXANDROLONA",
-            "amount": "20mg/caps - Frasco de 100caps (Oral)",
-            "category": "oral",
-            "image": false,
-            "description": "A OXANDROLONA serve para melhorar o desempenho atlético e aparência física com mais definição muscular. A Oxandrolona pode oferecer efeito de reforço muscular, contribui para que você tenha um melhor desempenho durante as atividades físicas, com mais força. Oferece baixo efeito anabólico, não provoca retenção de líquidos e quando comparada a outros esteroides, oferece menos efeitos colaterais. Usada por mulheres em doses menores e homens com dosagens mais elevadas.",
-            "isValidated": false
-        },
-        {
-            "title": "OXANDROLONA",
-            "amount": "10mg/caps - Frasco de 100caps (Oral)",
-            "category": "oral",
-            "image": false,
-            "description": "A OXANDROLONA serve para melhorar o desempenho atlético e aparência física com mais definição muscular. A Oxandrolona pode oferecer efeito de reforço muscular, contribui para que você tenha um melhor desempenho durante as atividades físicas, com mais força. Oferece baixo efeito anabólico, não provoca retenção de líquidos e quando comparada a outros esteroides, oferece menos efeitos colaterais. Usada por mulheres em doses menores e homens com dosagens mais elevadas.",
-            "isValidated": false
-        },
-        {
-            "title": "DECA",
-            "amount": "250mg/ml (Injetável)",
-            "category": "injetado",
-            "image": false,
-            "description": "Decanoato de Nandrolona, conhecido como Deca considerado um esteroide Androgênico e Anabólico, o Anabolizante Deca tem a Capacidade de Aumentar a Resistência Física e Estimular o Ganho de Massa Muscular, Aumentar o peso corporal,Tratar e Reduuzir Lesões Articulares, Evitar Inflamações dos Tendões e Ligamentos. A Deca também tem atuação importante no Sistema Imune, Fortalecendo as Linhas de Defesa do Organismo.",
-            "isValidated": false
-        },
-        {
-            "title": "DURATESTON",
-            "amount": "250mg/ml (Injetável)",
-            "category": "injetado",
-            "image": false,
-            "description": "Durateston conhecido como DURA. A Durateston é certamente um dos anabolizantes mais utilizados pelos praticantes de musculação que desejam acelerar seus ganhos de massa muscular. Durateston é utilizado para aumentar os níveis de testosterona e estimular a síntese de fibras musculares. O Durateston é um medicamento desenvolvido originalmente para a reposição dos níveis normais de testosterona. A Durateston serve para aumentar a força, acelerar a síntese de proteínas e diminuir a taxa de gordura corporal. Podemos dizer que o Durateston serve para estimular a regeneração e o crescimento muscular melhorando a hipertrofia.",
-            "isValidated": false
-        },
-        {
-            "title": "BOLDENONA",
-            "amount": "250mg/ml (Injetável)",
-            "category": "injetado",
-            "image": false,
-            "description": "O anabolizante Boldenona, também conhecido como undecilinato de boldenona ou Equifort, foi desenvolvido com o intuito de combater distrofia muscular (Perda de Massa Magra), osteoporose, anemia e anorexia. Grande criador de massa muscular, aumento de apetite, peso corporal. É conhecida por ser uma droga muito anabólica, pouco androgênica (possibilitando seu uso por mulheres), A retenção líquida é pequena e as chances de causar ginecomastia são baixas. É um Anabolizante que, se associada a outros anabolizantes, produz melhores resultados. Incrementa ganhos permanentes e de qualidade.",
-            "isValidated": false
-        },
-        {
-            "title": "STANOZOLOL",
-            "amount": "50mg/ml - Frasco 30ml (Injetável)",
-            "category": "injetado",
-            "image": false,
-            "description": "Winstrol normalmente vendido sob o nome de STANOZOLOL proporciona o aumento da massa corpórea, seja ela muscular ou óssea. O Stanozolol aumenta a produção de colágeno, o que causa essa definição, pois os músculos e a pele ficam mais rígidos. Sua função é o aumento da massa muscular, As proteínas do corpo passam as ser melhor aproveitadas pelo organismo, podendo levar ao aumento do apetite e do peso corporal.",
-            "isValidated": false
-        },
-        {
-            "title": "STANOZOLOL",
-            "amount": "10mg/caps - Frasco 100caps (Oral)",
-            "category": "oral",
-            "image": false,
-            "description": "Winstrol normalmente vendido sob o nome de STANOZOLOL proporciona o aumento da massa corpórea, seja ela muscular ou óssea. O Stanozolol aumenta a produção de colágeno, o que causa essa definição, pois os músculos e a pele ficam mais rígidos. Sua função é o aumento da massa muscular, As proteínas do corpo passam as ser melhor aproveitadas pelo organismo, podendo levar ao aumento do apetite e do peso corporal.",
-            "isValidated": false
-        },
-        {
-            "title": "PROPRIONATO DE TESTOSTERONA",
-            "amount": "100mg/ml (Injetável)",
-            "category": "injetado",
-            "image": false,
-            "description": "Ganhos de propionato de testosterona, Aumenta a massa muscular e força, queima gordura, aumenta a libido, reduz o risco de doença cardíaca isquêmica e doença coronariana. Perfil de propionato de testosterona tem uma curta duração. Este é o mais rápido éster de testosterona. Portanto, as injeções são geralmente feitas em um dia ou todos os dias. Propionato de testosterona após aplicação você vai sentir uma onda de força, ela está associada com níveis aumentados do hormônio no corpo é rapidamente absorvida pela corrente sanguínea.",
-            "isValidated": false
-        },
-        {
-            "title": "PROPRIONATO DE TESTOSTERONA",
-            "amount": "10mg/caps - 100caps (Oral)",
-            "category": "oral",
-            "image": false,
-            "description": "Ganhos de propionato de testosterona, Aumenta a massa muscular e força, queima gordura, aumenta a libido, reduz o risco de doença cardíaca isquêmica e doença coronariana. Perfil de propionato de testosterona tem uma curta duração. Este é o mais rápido éster de testosterona. Portanto, as injeções são geralmente feitas em um dia ou todos os dias. Propionato de testosterona após aplicação você vai sentir uma onda de força, ela está associada com níveis aumentados do hormônio no corpo é rapidamente absorvida pela corrente sanguínea.",
-            "isValidated": false
-        },
-        {
-            "title": "MASTERON",
-            "amount": "100mg/ml (Injetável)",
-            "category": "injetado",
-            "image": false,
-            "description": "O Masteron (Proprionato de Drostonolona), é um dos esteroides anabolizantes utilizado principalmente no fisiculturismo e esportes que envolte Artes Marciais. Apresentando propriedades bastante peculiares e únicas, Como Recuperação em Fraturas, Redução nos níveis de estrógeno, o aumento da massa muscular com alta qualidade e nenhuma retenção hídrica. Além disso, por ser uma droga que se liga aos receptores androgênicos, ela possui a capacidade de auxiliar na queima de gordura corpórea.",
-            "isValidated": false
-        },
-        {
-            "title": "PRIMOBOLAN",
-            "amount": "100mg/ml (Injetável)",
-            "category": "injetado",
-            "image": false,
-            "description": "Primobolan (Metenolona) E considerado um dos esteroides mais populares do mundo, ele é usado por quem deseja melhorar o desempenho no ganho de massa muscular. O medicamento age no organismo ajudando a manter os ganhos adquiridos, Primobolan é também eficiente na queima de excesso de gordura corporal, Por isso esse esteroide é indicado para pessoas que estão na fase de corte definição. O Primobolan é também um grande aliado na potencialização das funções imunológicas do organismo. Além dos benefícios citados anteriormente, o Primobolan possui algumas vantagens quando comparado a outros esteroides, Não causa ginecomastia (aumento das mamas em homens), Não causa retenção de líquidos, Não causa inchaço abdominal. Exelêntes resultados são adquiridos com uso do primabolan maior parte deles duradouros com qualidade e volume, muito utilizado por mulheres, pois oferece menos efeitos colaterais.",
-            "isValidated": false
-        },
-        {
-            "title": "DEPOSTERON",
-            "amount": "200mg/ml (Injetável)",
-            "category": "injetado",
-            "image": false,
-            "description": "Deposteron ( Cipionato de Testosterona) Seu uso pode causar alguns efeitos. O mais conhecido é que ele pode ajudar no ganho de massa muscular e força, aumenta a quantidade de IGF-1 no tecido muscular, possibilitando o aumento de massa muscular. Cipionato de testosterona ajuda a recuperar os músculos danificados, além de auxiliar no emagrecimento. Ele aumenta a fabricação de glóbulos vermelhos, melhorando a resistência e a recuperação depois dos exercícios físicos. Da mesma forma, ele estimula a síntese de glicogênio dando mais energia para realizar grandes treinamentos. E ajuda na prevenção de doenças cardiovasculares.",
-            "isValidated": false
-        },
-        {
-            "title": "TREMBOLONA ACETATO",
-            "amount": "100mg/ml (Injetável)",
-            "category": "injetado",
-            "image": false,
-            "description": "O Acetato de Trembolona é um anabolizante extremamente potente com ação rapida, 5 vezes mais potente que a testosterona. A trembolona é um dos anabolizantes mais fortes que existe dentre os conhecidos atualmente. Isso se deve ao fato de que que ela é capaz de gerar ganhos significativos de massa muscular, Aumentar o IGF-1 hormônio que está diretamente relacionado com o fator de crescimento. O usuário pode desfrutar de ganho de massa muscular mais fácil, aumento da força, melhor condicionamento físico e eficácia do metabolismo, perda de gordura atua nos processos de lipólise e queima de ácidos graxos. Vasodilatação,  a trembolona contribui para alcançar melhores resultados por meio da vasodilatação. Esse processo permite que o transporte de nutrientes seja mais eficiente e, consequentemente, há uma melhor absorção pelo organismo. Ajuda a manter o nitrogênio nos músculos por mais tempo. Como consequência disso, o crescimento muscular tende a ser intensificado.",
-            "isValidated": false
-        },
-        {
-            "title": "TREMBOLONA ENANTATO",
-            "amount": "200mg/ml (Injetável)",
-            "category": "injetado",
-            "image": false,
-            "description": "O Enantato de Trembolona é um anabolizante extremamente potente com inicio de ação gradativo porém e poucos dias de uso já se percebe mudanção no aspecto do fisico, 5 vezes mais potente que a testosterona. A trembolona é um dos anabolizantes mais fortes que existe dentre os conhecidos atualmente. Isso se deve ao fato de que que ela é capaz de gerar ganhos significativos de massa muscular, Aumentar o IGF-1 hormônio que está diretamente relacionado com o fator de crescimento. O usuário pode desfrutar de ganho de massa muscular mais fácil, aumento da força, melhor condicionamento físico e eficácia do metabolismo, perda de gordura atua nos processos de lipólise e queima de ácidos graxos. Vasodilatação,  a trembolona contribui para alcançar melhores resultados por meio da vasodilatação. Esse processo permite que o transporte de nutrientes seja mais eficiente e, consequentemente, há uma melhor absorção pelo organismo. Ajuda a manter o nitrogênio nos músculos por mais tempo. Como consequência disso, o crescimento muscular tende a ser intensificado.",
-            "isValidated": false
-        },
-        {
-            "title": "ENANTATO DE TESTOSTERONA",
-            "amount": "250mg/ml (Injetável)",
-            "category": "injetado",
-            "image": false,
-            "description": "O enantato de testosterona é um dos esteroides anabolizantes mais utilizados por atletas. O motivo é a velocidade e a precisão com que esse esteroide androgênico anabólico, age no organismo, aumentando a musculatura, força física e energia.Testosterona induz mudanças na forma, tamanho e também pode alterar a aparência e o número de fibras musculares. Androgênios como testosterona pode proteger o sua massa muscular do catabolismo ,hormônios glicocorticóides, além disso, a testosterona enantato tem a capacidade de aumentar a  produção de células vermelhas do sangue, a recuperação da atividade física extenuante. Ganhos com mais volume e pouca retenção são percebidos com uso de testosterona enantato.",
-            "isValidated": false
-        },
-        {
-            "title": "TAMOXIFENO",
-            "amount": "10mg/caps - 30caps (Oral)",
-            "category": "oral",
-            "image": false,
-            "description": "O Tamoxifeno, também chamado de tamox, é um remédio bastante conhecido entre os atletas que buscam a suplementação hormonal para favorecer o desenvolvimento de sua musculatura. Clinicamente, o tamoxifeno é um remédio utilizado para o tratamento e prevenção da ginecomastia. O uso do tamoxifeno é destinado especialmente para evitar a ginecomastia típica do processo de aromatização.",
-            "isValidated": false
-        },
-        {
-            "title": "ANASTROZOL",
-            "amount": "1mg/caps - 30caps (Oral)",
-            "category": "oral",
-            "image": false,
-            "description": "O Anastrozol é um forte inibidor de aromatase. Por isso, ele serve para previne a formação de estrogênio em homens, prevenir a formação de estradiol, previne também o envelhecimento ósseo precoce. A diminuição da produção de estradiol estrogênio se traduz em uma vantagem para os homens, já que quantidades mais elevadas são prejudiciais, podendo causar não somente a ginecomastia, mas também retenção de líquidos e aumento de gordura. A função do Anastrozol nos homens é basicamente impedir a formação em excesso de estrogênio e manter o hormônio em equilíbrio.",
-            "isValidated": false
-        },
-        {
-            "title": "TADALAFILA",
-            "amount": "5mg/caps - 60caps (Oral)",
-            "category": "oral",
-            "image": false,
-            "description": "Tadalafila medicamento muito importante na saúde do homem e mulheres também, promovendo varios beneficios, Atravéz da vasodilação e aumento do fluxosanguineo o tadalafila age da seguinte maneira, a dilatação de vasos é a enzima Fosfodiesterase-5 (PDE5), Essa enzima, presente em vários lugares do corpo, como nos músculos esqueléticos e vasculares, naturalmente degrada o GMPc, consequentemente, diminuindo a vasodilatação. Tadalafila inibindo diretamente essa enzima, interrompendo a ação dessa substância que age diminuindo a vasodilatação, trazendo uma vasodilatação muito mais aparente e duradoura, além de uma série de benefícios estéticos e funcionais.?Devido ao aumento do calibre dos vasos, traz uma melhor nutrição dos tecidos, levando mais sangue e mais oxigênio, aumenta o fluxo sanguineo no pênis, Por conduzir um maior volume sanguíneo à musculatura esquelética adjacente, causa pumps mais fortes, melhora na retirada do ácido lático (aumentando a resistência muscular) e uma recuperação mais rápida entre as séries. Por diminuir a resistência vascular periférica, a força de contratilidade cardíaca exigida é diminuída e a pressão arterial sistêmica é aprimorada, tendo, assim, um efeito de proteção cardíaca, Aumenta a vasodilatação deixando as veias mais aparentes e maiores. Tadalafila não causa nenhuma alteração hormonal, tendo sua administração segura para ambos os sexos.",
-            "isValidated": false
-        },
-        {
-            "title": "EFEDRINA",
-            "amount": "20mg/caps - 60caps (Oral)",
-            "category": "oral",
-            "image": false,
-            "description": "A Efedrina de nome científico Ephedra sinica, é uma planta pertencente à família das Ephedraceae, quimicamente constituída de efedrina, pseudoefedrina e norpseudoefedrinas propriedades medicinais da efedrina incluem a sua ação broncodilatadora, diurética, tônica muscular, termogênica, redutora do apetite e estimulante. A efedrina proporciona uma dose extra de energia, com a elevação da pressão sanguínea e o estímulo da transpiração. Os seus princípios ativos, efedrina e pseudoefedrina, agem de maneira semelhante à adrenalina, causando o dilatamento bronquial e excitação cardíaca. A efedrina é principalmente utilizada como um broncodilatador e em suplementos de perda de peso, uma vez que contém efeitos estimulantes. Tais efeitos provocam um aumento na taxa metabólica basal, o que contribui para a perda de peso.",
-            "isValidated": false
-        },
-        {
-            "title": "CLENBUTEROL",
-            "amount": "25mcg/ml - 120ml (Oral)",
-            "category": "oral",
-            "image": false,
-            "description": "O Clenbuterol,age como broncodilatador, A absorção oral deste medicamento que tem receptores de duração longa do tipo adrenérgico, age para que a pressão do sangue aumente (termogênese) de modo a promover a vasodilatação. Potente muito próximo a efedrina, muitas pessoas que querem eliminar gordura e transformar a massa corporal em músculos recorrem ao Clenbuterol. Tem ação direta no sistema nervoso na mesma proporção que a adrenalina. Considerado também poder anorexígeno pelo efeito termogênico que produz. Outra ação positiva que o clenbuterol oferece para o emagrecimento, é a capacidade de utilizar mais carboidratos e ácidos graxos livres no organismo para prover energia, auxiliando neste caso para decompor gordura acumulada. Além disso, como otimizador dos neurotransmissores da: Dopamina: Responsável pelas sensações boas e prazerosas; Adrenalina: Responsável para promover sinais de alerta e prontidão; Noradrenalina: Responsável pelos níveis de disposição e humor. Tem leve ação na disposição diária para que a pessoa realize mais tarefas sem sentir cansaço.",
-            "isValidated": false
-        },
-        {
-            "title": "TESTO SUSPENSÃO AQUOSA",
-            "amount": "100mg/ml - (Injetável)",
-            "category": "injetado",
-            "image": false,
-            "description": "Testosterona Suspensão Aquosa conhecida por varios nomes como; Testo Base, Testo Aquaosa, Testo Suspensão, Testo Ultra Rapida, Um dos hormônios mais importantes na regulação de algumas funções do corpo humano é a Testosterona. Por ser muito eficiente na construção muscular, muitos praticantes de exercícios de maior intensidade usam o hormônio como forma de acelerar o crescimento muscular rapidamente. A Testosterona suspensão aquosa apresenta algumas diferenças, A testosterona em suspensão aquosa, recebe esse nome, por que precisa ser agitada antes de utilizada; para que os cristais possam ser misturados. Ela é a forma mais concentrada do hormônio TESTOSTERONA, sendo extremamente eficiente para pessoas que querem ganhar massa muscular rapidamente. Porém, ela age por um curto período de tempo no organismo, cerca de 24 horas de meia vida. Além disso, a testosterona suspensão aquosa apresenta um resultado muito rápido. Em cerca de dois ou três dias ela começa a agir no organismo, com efeitos semelhantes a Trembolona.",
-            "isValidated": false
-        },
-        {
-            "title": "T3 Liotironina",
-            "amount": "25mcg/caps - 60caps (Oral)",
-            "category": "oral",
-            "image": false,
-            "description": "Os atletas estimulam seu metabolismo tomando T3, o que leva a uma conversão mais rápida de carboidratos, proteínas e gorduras. Fisiculturistas estão especialmente interessados ??em uma lipólise estimulada, que significa a destruição estimulada de gordura. T3 (Liotironina Sódio) pode ser utilizado em combinação com diferentes tipos de esteróides anabolizantes. Ao combinar este medicamento com esteróides anabolizantes, um efeito anabólico mais pronunciada pode comumente ser alcançado. Isso significa que a pessoa que o usa tem músculos muito mais pronunciado.",
-            "isValidated": false
-        },
-        {
-            "title": "CUT-STACK",
-            "amount": "150mg/ml - 20ml (Injetável)",
-            "category": "injetado",
-            "image": false,
-            "description": "O Cut Stack e uma formula exclusiva da Gran Pharmaceuticals contendo três ativos diferente para proporcionar uma comodidade no uso. Cut Stack e usado para fins de melhoramento e manutenção da qualidade muscular, contendo proprionato de testosterona, proprionato de drostanolona e acetato de trembolona, com isso o Cut Stack fornece ao usuario melhor definição muscular, ganhos com qualidade e duradouros. Podendo ser usado com outros produtos para melhor resultado ou em avulso variando do objetivo do usuario.",
-            "isValidated": false
-        },
-        {
-            "title": "GAIN-STACK",
-            "amount": "300mg/ml - 20ml (Injetável)",
-            "category": "injetado",
-            "image": false,
-            "description": "O Gain Stack e uma formula exclusiva da Gran Pharmaceuticals contendo três ativos diferente para proporcionar uma comodidade no uso. Gain Stack e usado para fins de melhorando do volume muscular, contendo enanatato de testosterona, undecilenato de boldenona e enantato de trembolona, com isso o Gain Stack fornece ao usuario melhor aumento muscular, ganhos com qualidade e duradouros, aumento de peso. Podendo ser usado com outros produtos para melhor resultado ou em avulso variando do objetivo do usuario.",
-            "isValidated": false
-        },
-        {
-            "title": "Gran Pre-Workout",
-            "amount": "30caps",
-            "category": "oral",
-            "image": false,
-            "description": "Gran Pre-Workout e uma formula exclusiva Gran Pharmaceuticals, e um pré treino em capsulas que contém em sua formulação arginina, efedrina e tadalafila. Este pré treino foi formulado para atender as necessidades de atletas e usuarios afins, trazendo conforto de poder usar de maneira simples apenas ingerindo uma capsula que fornecera energia, disposição, aumento de força, vasodilatação exelênte durante e pós treino. Recomenda se não usar proximo a hora de dormir.",
-            "isValidated": false
-        },
-        {
-            "title": "Hemogenin",
-            "amount": "50mg/ml - 10ml (Injetável)",
-            "category": "injetado",
-            "image": false,
-            "description": "A oximetolona é um dos esteróides anabolizantes orais mais potentes que temos à nossa disposição, oral ou injetável comumente referido como Anadrol ou Hemogenin foi desenvolvido na década de 1960 para tratar anemia grave e doenças musculares e, como tal, é geralmente um esteroide anabolizante de alta qualidade para proporcionar ganhos maciços de peso em atletas. Quando se trata de adicionar tamanho bruto, este é sua maior característica.",
-            "isValidated": false
-        },
-        {
-            "title": "Hemogenin",
-            "amount": "50mg/caps - 20caps (Oral)",
-            "category": "oral",
-            "image": false,
-            "description": "A oximetolona é um dos esteróides anabolizantes orais mais potentes que temos à nossa disposição, oral ou injetável comumente referido como Anadrol ou Hemogenin foi desenvolvido na década de 1960 para tratar anemia grave e doenças musculares e, como tal, é geralmente um esteroide anabolizante de alta qualidade para proporcionar ganhos maciços de peso em atletas. Quando se trata de adicionar tamanho bruto, este é sua maior característica.",
-            "isValidated": false
-        }
-    ]
+	"product": [
+		{
+			"title": "DIANABOL",
+			"amount": "50mg/ml - Frasco de 30ml (Injetável)",
+			"category": "injetado",
+			"image": false,
+			"description": "A Metandrostenolona, também conhecido como Dianabol é um derivado da testosterona que exibe fortes propriedades anabólicas e propriedades androgênicas moderadas. Ele é o esteroide usado para aumento de Desempenho Força, Massa Muscular, Aumento de Peso, Performance e Melhoramento Físico.",
+			"isValidated": false
+		},
+		{
+			"title": "DIANABOL",
+			"amount": "10mg/caps - Frasco de 100caps (Oral)",
+			"category": "oral",
+			"image": false,
+			"description": "A Metandrostenolona, também conhecido como Dianabol é um derivado da testosterona que exibe fortes propriedades anabólicas e propriedades androgênicas moderadas. Ele é o esteroide usado para aumento de Desempenho Força, Massa Muscular, Aumento de Peso, Performance e Melhoramento Físico.",
+			"isValidated": false
+		},
+		{
+			"title": "OXANDROLONA",
+			"amount": "20mg/caps - Frasco de 100caps (Oral)",
+			"category": "oral",
+			"image": false,
+			"description": "A OXANDROLONA serve para melhorar o desempenho atlético e aparência física com mais definição muscular. A Oxandrolona pode oferecer efeito de reforço muscular, contribui para que você tenha um melhor desempenho durante as atividades físicas, com mais força. Oferece baixo efeito anabólico, não provoca retenção de líquidos e quando comparada a outros esteroides, oferece menos efeitos colaterais. Usada por mulheres em doses menores e homens com dosagens mais elevadas.",
+			"isValidated": false
+		},
+		{
+			"title": "OXANDROLONA",
+			"amount": "10mg/caps - Frasco de 100caps (Oral)",
+			"category": "oral",
+			"image": false,
+			"description": "A OXANDROLONA serve para melhorar o desempenho atlético e aparência física com mais definição muscular. A Oxandrolona pode oferecer efeito de reforço muscular, contribui para que você tenha um melhor desempenho durante as atividades físicas, com mais força. Oferece baixo efeito anabólico, não provoca retenção de líquidos e quando comparada a outros esteroides, oferece menos efeitos colaterais. Usada por mulheres em doses menores e homens com dosagens mais elevadas.",
+			"isValidated": false
+		},
+		{
+			"title": "DECA",
+			"amount": "250mg/ml (Injetável)",
+			"category": "injetado",
+			"image": false,
+			"description": "Decanoato de Nandrolona, conhecido como Deca considerado um esteroide Androgênico e Anabólico, o Anabolizante Deca tem a Capacidade de Aumentar a Resistência Física e Estimular o Ganho de Massa Muscular, Aumentar o peso corporal,Tratar e Reduuzir Lesões Articulares, Evitar Inflamações dos Tendões e Ligamentos. A Deca também tem atuação importante no Sistema Imune, Fortalecendo as Linhas de Defesa do Organismo.",
+			"isValidated": false
+		},
+		{
+			"title": "DURATESTON",
+			"amount": "250mg/ml (Injetável)",
+			"category": "injetado",
+			"image": false,
+			"description": "Durateston conhecido como DURA. A Durateston é certamente um dos anabolizantes mais utilizados pelos praticantes de musculação que desejam acelerar seus ganhos de massa muscular. Durateston é utilizado para aumentar os níveis de testosterona e estimular a síntese de fibras musculares. O Durateston é um medicamento desenvolvido originalmente para a reposição dos níveis normais de testosterona. A Durateston serve para aumentar a força, acelerar a síntese de proteínas e diminuir a taxa de gordura corporal. Podemos dizer que o Durateston serve para estimular a regeneração e o crescimento muscular melhorando a hipertrofia.",
+			"isValidated": false
+		},
+		{
+			"title": "BOLDENONA",
+			"amount": "250mg/ml (Injetável)",
+			"category": "injetado",
+			"image": false,
+			"description": "O anabolizante Boldenona, também conhecido como undecilinato de boldenona ou Equifort, foi desenvolvido com o intuito de combater distrofia muscular (Perda de Massa Magra), osteoporose, anemia e anorexia. Grande criador de massa muscular, aumento de apetite, peso corporal. É conhecida por ser uma droga muito anabólica, pouco androgênica (possibilitando seu uso por mulheres), A retenção líquida é pequena e as chances de causar ginecomastia são baixas. É um Anabolizante que, se associada a outros anabolizantes, produz melhores resultados. Incrementa ganhos permanentes e de qualidade.",
+			"isValidated": false
+		},
+		{
+			"title": "STANOZOLOL",
+			"amount": "50mg/ml - Frasco 30ml (Injetável)",
+			"category": "injetado",
+			"image": false,
+			"description": "Winstrol normalmente vendido sob o nome de STANOZOLOL proporciona o aumento da massa corpórea, seja ela muscular ou óssea. O Stanozolol aumenta a produção de colágeno, o que causa essa definição, pois os músculos e a pele ficam mais rígidos. Sua função é o aumento da massa muscular, As proteínas do corpo passam as ser melhor aproveitadas pelo organismo, podendo levar ao aumento do apetite e do peso corporal.",
+			"isValidated": false
+		},
+		{
+			"title": "STANOZOLOL",
+			"amount": "10mg/caps - Frasco 100caps (Oral)",
+			"category": "oral",
+			"image": false,
+			"description": "Winstrol normalmente vendido sob o nome de STANOZOLOL proporciona o aumento da massa corpórea, seja ela muscular ou óssea. O Stanozolol aumenta a produção de colágeno, o que causa essa definição, pois os músculos e a pele ficam mais rígidos. Sua função é o aumento da massa muscular, As proteínas do corpo passam as ser melhor aproveitadas pelo organismo, podendo levar ao aumento do apetite e do peso corporal.",
+			"isValidated": false
+		},
+		{
+			"title": "PROPRIONATO DE TESTOSTERONA",
+			"amount": "100mg/ml (Injetável)",
+			"category": "injetado",
+			"image": false,
+			"description": "Ganhos de propionato de testosterona, Aumenta a massa muscular e força, queima gordura, aumenta a libido, reduz o risco de doença cardíaca isquêmica e doença coronariana. Perfil de propionato de testosterona tem uma curta duração. Este é o mais rápido éster de testosterona. Portanto, as injeções são geralmente feitas em um dia ou todos os dias. Propionato de testosterona após aplicação você vai sentir uma onda de força, ela está associada com níveis aumentados do hormônio no corpo é rapidamente absorvida pela corrente sanguínea.",
+			"isValidated": false
+		},
+		{
+			"title": "PROPRIONATO DE TESTOSTERONA",
+			"amount": "10mg/caps - 100caps (Oral)",
+			"category": "oral",
+			"image": false,
+			"description": "Ganhos de propionato de testosterona, Aumenta a massa muscular e força, queima gordura, aumenta a libido, reduz o risco de doença cardíaca isquêmica e doença coronariana. Perfil de propionato de testosterona tem uma curta duração. Este é o mais rápido éster de testosterona. Portanto, as injeções são geralmente feitas em um dia ou todos os dias. Propionato de testosterona após aplicação você vai sentir uma onda de força, ela está associada com níveis aumentados do hormônio no corpo é rapidamente absorvida pela corrente sanguínea.",
+			"isValidated": false
+		},
+		{
+			"title": "MASTERON",
+			"amount": "100mg/ml (Injetável)",
+			"category": "injetado",
+			"image": false,
+			"description": "O Masteron (Proprionato de Drostonolona), é um dos esteroides anabolizantes utilizado principalmente no fisiculturismo e esportes que envolte Artes Marciais. Apresentando propriedades bastante peculiares e únicas, Como Recuperação em Fraturas, Redução nos níveis de estrógeno, o aumento da massa muscular com alta qualidade e nenhuma retenção hídrica. Além disso, por ser uma droga que se liga aos receptores androgênicos, ela possui a capacidade de auxiliar na queima de gordura corpórea.",
+			"isValidated": false
+		},
+		{
+			"title": "PRIMOBOLAN",
+			"amount": "100mg/ml (Injetável)",
+			"category": "injetado",
+			"image": false,
+			"description": "Primobolan (Metenolona) E considerado um dos esteroides mais populares do mundo, ele é usado por quem deseja melhorar o desempenho no ganho de massa muscular. O medicamento age no organismo ajudando a manter os ganhos adquiridos, Primobolan é também eficiente na queima de excesso de gordura corporal, Por isso esse esteroide é indicado para pessoas que estão na fase de corte definição. O Primobolan é também um grande aliado na potencialização das funções imunológicas do organismo. Além dos benefícios citados anteriormente, o Primobolan possui algumas vantagens quando comparado a outros esteroides, Não causa ginecomastia (aumento das mamas em homens), Não causa retenção de líquidos, Não causa inchaço abdominal. Exelêntes resultados são adquiridos com uso do primabolan maior parte deles duradouros com qualidade e volume, muito utilizado por mulheres, pois oferece menos efeitos colaterais.",
+			"isValidated": false
+		},
+		{
+			"title": "DEPOSTERON",
+			"amount": "200mg/ml (Injetável)",
+			"category": "injetado",
+			"image": false,
+			"description": "Deposteron ( Cipionato de Testosterona) Seu uso pode causar alguns efeitos. O mais conhecido é que ele pode ajudar no ganho de massa muscular e força, aumenta a quantidade de IGF-1 no tecido muscular, possibilitando o aumento de massa muscular. Cipionato de testosterona ajuda a recuperar os músculos danificados, além de auxiliar no emagrecimento. Ele aumenta a fabricação de glóbulos vermelhos, melhorando a resistência e a recuperação depois dos exercícios físicos. Da mesma forma, ele estimula a síntese de glicogênio dando mais energia para realizar grandes treinamentos. E ajuda na prevenção de doenças cardiovasculares.",
+			"isValidated": false
+		},
+		{
+			"title": "TREMBOLONA ACETATO",
+			"amount": "100mg/ml (Injetável)",
+			"category": "injetado",
+			"image": false,
+			"description": "O Acetato de Trembolona é um anabolizante extremamente potente com ação rapida, 5 vezes mais potente que a testosterona. A trembolona é um dos anabolizantes mais fortes que existe dentre os conhecidos atualmente. Isso se deve ao fato de que que ela é capaz de gerar ganhos significativos de massa muscular, Aumentar o IGF-1 hormônio que está diretamente relacionado com o fator de crescimento. O usuário pode desfrutar de ganho de massa muscular mais fácil, aumento da força, melhor condicionamento físico e eficácia do metabolismo, perda de gordura atua nos processos de lipólise e queima de ácidos graxos. Vasodilatação,  a trembolona contribui para alcançar melhores resultados por meio da vasodilatação. Esse processo permite que o transporte de nutrientes seja mais eficiente e, consequentemente, há uma melhor absorção pelo organismo. Ajuda a manter o nitrogênio nos músculos por mais tempo. Como consequência disso, o crescimento muscular tende a ser intensificado.",
+			"isValidated": false
+		},
+		{
+			"title": "TREMBOLONA ENANTATO",
+			"amount": "200mg/ml (Injetável)",
+			"category": "injetado",
+			"image": false,
+			"description": "O Enantato de Trembolona é um anabolizante extremamente potente com inicio de ação gradativo porém e poucos dias de uso já se percebe mudanção no aspecto do fisico, 5 vezes mais potente que a testosterona. A trembolona é um dos anabolizantes mais fortes que existe dentre os conhecidos atualmente. Isso se deve ao fato de que que ela é capaz de gerar ganhos significativos de massa muscular, Aumentar o IGF-1 hormônio que está diretamente relacionado com o fator de crescimento. O usuário pode desfrutar de ganho de massa muscular mais fácil, aumento da força, melhor condicionamento físico e eficácia do metabolismo, perda de gordura atua nos processos de lipólise e queima de ácidos graxos. Vasodilatação,  a trembolona contribui para alcançar melhores resultados por meio da vasodilatação. Esse processo permite que o transporte de nutrientes seja mais eficiente e, consequentemente, há uma melhor absorção pelo organismo. Ajuda a manter o nitrogênio nos músculos por mais tempo. Como consequência disso, o crescimento muscular tende a ser intensificado.",
+			"isValidated": false
+		},
+		{
+			"title": "ENANTATO DE TESTOSTERONA",
+			"amount": "250mg/ml (Injetável)",
+			"category": "injetado",
+			"image": false,
+			"description": "O enantato de testosterona é um dos esteroides anabolizantes mais utilizados por atletas. O motivo é a velocidade e a precisão com que esse esteroide androgênico anabólico, age no organismo, aumentando a musculatura, força física e energia.Testosterona induz mudanças na forma, tamanho e também pode alterar a aparência e o número de fibras musculares. Androgênios como testosterona pode proteger o sua massa muscular do catabolismo ,hormônios glicocorticóides, além disso, a testosterona enantato tem a capacidade de aumentar a  produção de células vermelhas do sangue, a recuperação da atividade física extenuante. Ganhos com mais volume e pouca retenção são percebidos com uso de testosterona enantato.",
+			"isValidated": false
+		},
+		{
+			"title": "TAMOXIFENO",
+			"amount": "10mg/caps - 30caps (Oral)",
+			"category": "oral",
+			"image": false,
+			"description": "O Tamoxifeno, também chamado de tamox, é um remédio bastante conhecido entre os atletas que buscam a suplementação hormonal para favorecer o desenvolvimento de sua musculatura. Clinicamente, o tamoxifeno é um remédio utilizado para o tratamento e prevenção da ginecomastia. O uso do tamoxifeno é destinado especialmente para evitar a ginecomastia típica do processo de aromatização.",
+			"isValidated": false
+		},
+		{
+			"title": "ANASTROZOL",
+			"amount": "1mg/caps - 30caps (Oral)",
+			"category": "oral",
+			"image": false,
+			"description": "O Anastrozol é um forte inibidor de aromatase. Por isso, ele serve para previne a formação de estrogênio em homens, prevenir a formação de estradiol, previne também o envelhecimento ósseo precoce. A diminuição da produção de estradiol estrogênio se traduz em uma vantagem para os homens, já que quantidades mais elevadas são prejudiciais, podendo causar não somente a ginecomastia, mas também retenção de líquidos e aumento de gordura. A função do Anastrozol nos homens é basicamente impedir a formação em excesso de estrogênio e manter o hormônio em equilíbrio.",
+			"isValidated": false
+		},
+		{
+			"title": "TADALAFILA",
+			"amount": "5mg/caps - 30caps (Oral)",
+			"category": "oral",
+			"image": false,
+			"description": "Tadalafila medicamento muito importante na saúde do homem e mulheres também, promovendo varios beneficios, Atravéz da vasodilação e aumento do fluxosanguineo o tadalafila age da seguinte maneira, a dilatação de vasos é a enzima Fosfodiesterase-5 (PDE5), Essa enzima, presente em vários lugares do corpo, como nos músculos esqueléticos e vasculares, naturalmente degrada o GMPc, consequentemente, diminuindo a vasodilatação. Tadalafila inibindo diretamente essa enzima, interrompendo a ação dessa substância que age diminuindo a vasodilatação, trazendo uma vasodilatação muito mais aparente e duradoura, além de uma série de benefícios estéticos e funcionais.?Devido ao aumento do calibre dos vasos, traz uma melhor nutrição dos tecidos, levando mais sangue e mais oxigênio, aumenta o fluxo sanguineo no pênis, Por conduzir um maior volume sanguíneo à musculatura esquelética adjacente, causa pumps mais fortes, melhora na retirada do ácido lático (aumentando a resistência muscular) e uma recuperação mais rápida entre as séries. Por diminuir a resistência vascular periférica, a força de contratilidade cardíaca exigida é diminuída e a pressão arterial sistêmica é aprimorada, tendo, assim, um efeito de proteção cardíaca, Aumenta a vasodilatação deixando as veias mais aparentes e maiores. Tadalafila não causa nenhuma alteração hormonal, tendo sua administração segura para ambos os sexos.",
+			"isValidated": false
+		},
+		{
+			"title": "EFEDRINA",
+			"amount": "20mg/caps - 30caps (Oral)",
+			"category": "oral",
+			"image": false,
+			"description": "A Efedrina de nome científico Ephedra sinica, é uma planta pertencente à família das Ephedraceae, quimicamente constituída de efedrina, pseudoefedrina e norpseudoefedrinas propriedades medicinais da efedrina incluem a sua ação broncodilatadora, diurética, tônica muscular, termogênica, redutora do apetite e estimulante. A efedrina proporciona uma dose extra de energia, com a elevação da pressão sanguínea e o estímulo da transpiração. Os seus princípios ativos, efedrina e pseudoefedrina, agem de maneira semelhante à adrenalina, causando o dilatamento bronquial e excitação cardíaca. A efedrina é principalmente utilizada como um broncodilatador e em suplementos de perda de peso, uma vez que contém efeitos estimulantes. Tais efeitos provocam um aumento na taxa metabólica basal, o que contribui para a perda de peso.",
+			"isValidated": false
+		},
+		{
+			"title": "CLENBUTEROL",
+			"amount": "25mcg/ml - 100ml (Oral)",
+			"category": "oral",
+			"image": false,
+			"description": "O Clenbuterol,age como broncodilatador, A absorção oral deste medicamento que tem receptores de duração longa do tipo adrenérgico, age para que a pressão do sangue aumente (termogênese) de modo a promover a vasodilatação. Potente muito próximo a efedrina, muitas pessoas que querem eliminar gordura e transformar a massa corporal em músculos recorrem ao Clenbuterol. Tem ação direta no sistema nervoso na mesma proporção que a adrenalina. Considerado também poder anorexígeno pelo efeito termogênico que produz. Outra ação positiva que o clenbuterol oferece para o emagrecimento, é a capacidade de utilizar mais carboidratos e ácidos graxos livres no organismo para prover energia, auxiliando neste caso para decompor gordura acumulada. Além disso, como otimizador dos neurotransmissores da: Dopamina: Responsável pelas sensações boas e prazerosas; Adrenalina: Responsável para promover sinais de alerta e prontidão; Noradrenalina: Responsável pelos níveis de disposição e humor. Tem leve ação na disposição diária para que a pessoa realize mais tarefas sem sentir cansaço.",
+			"isValidated": false
+		},
+		{
+			"title": "TESTO SUSPENSÃO AQUOSA",
+			"amount": "100mg/ml - (Injetável)",
+			"category": "injetado",
+			"image": false,
+			"description": "Testosterona Suspensão Aquosa conhecida por varios nomes como; Testo Base, Testo Aquaosa, Testo Suspensão, Testo Ultra Rapida, Um dos hormônios mais importantes na regulação de algumas funções do corpo humano é a Testosterona. Por ser muito eficiente na construção muscular, muitos praticantes de exercícios de maior intensidade usam o hormônio como forma de acelerar o crescimento muscular rapidamente. A Testosterona suspensão aquosa apresenta algumas diferenças, A testosterona em suspensão aquosa, recebe esse nome, por que precisa ser agitada antes de utilizada; para que os cristais possam ser misturados. Ela é a forma mais concentrada do hormônio TESTOSTERONA, sendo extremamente eficiente para pessoas que querem ganhar massa muscular rapidamente. Porém, ela age por um curto período de tempo no organismo, cerca de 24 horas de meia vida. Além disso, a testosterona suspensão aquosa apresenta um resultado muito rápido. Em cerca de dois ou três dias ela começa a agir no organismo, com efeitos semelhantes a Trembolona.",
+			"isValidated": false
+		},
+		{
+			"title": "T3 Liotironina",
+			"amount": "25mcg/caps - 30caps (Oral)",
+			"category": "oral",
+			"image": false,
+			"description": "Os atletas estimulam seu metabolismo tomando T3, o que leva a uma conversão mais rápida de carboidratos, proteínas e gorduras. Fisiculturistas estão especialmente interessados ??em uma lipólise estimulada, que significa a destruição estimulada de gordura. T3 (Liotironina Sódio) pode ser utilizado em combinação com diferentes tipos de esteróides anabolizantes. Ao combinar este medicamento com esteróides anabolizantes, um efeito anabólico mais pronunciada pode comumente ser alcançado. Isso significa que a pessoa que o usa tem músculos muito mais pronunciado.",
+			"isValidated": false
+		},
+		{
+			"title": "CUT-STACK",
+			"amount": "150mg/ml - 20ml (Injetável)",
+			"category": "injetado",
+			"image": false,
+			"description": "O Cut Stack e uma formula exclusiva da Gran Pharmaceuticals contendo três ativos diferente para proporcionar uma comodidade no uso. Cut Stack e usado para fins de melhoramento e manutenção da qualidade muscular, contendo proprionato de testosterona, proprionato de drostanolona e acetato de trembolona, com isso o Cut Stack fornece ao usuario melhor definição muscular, ganhos com qualidade e duradouros. Podendo ser usado com outros produtos para melhor resultado ou em avulso variando do objetivo do usuario.",
+			"isValidated": false
+		},
+		{
+			"title": "GAIN-STACK",
+			"amount": "300mg/ml - 20ml (Injetável)",
+			"category": "injetado",
+			"image": false,
+			"description": "O Gain Stack e uma formula exclusiva da Gran Pharmaceuticals contendo três ativos diferente para proporcionar uma comodidade no uso. Gain Stack e usado para fins de melhorando do volume muscular, contendo enanatato de testosterona, undecilenato de boldenona e enantato de trembolona, com isso o Gain Stack fornece ao usuario melhor aumento muscular, ganhos com qualidade e duradouros, aumento de peso. Podendo ser usado com outros produtos para melhor resultado ou em avulso variando do objetivo do usuario.",
+			"isValidated": false
+		},
+		{
+			"title": "Gran Pre-Workout",
+			"amount": "30caps",
+			"category": "oral",
+			"image": false,
+			"description": "Gran Pre-Workout e uma formula exclusiva Gran Pharmaceuticals, e um pré treino em capsulas que contém em sua formulação arginina, efedrina e tadalafila. Este pré treino foi formulado para atender as necessidades de atletas e usuarios afins, trazendo conforto de poder usar de maneira simples apenas ingerindo uma capsula que fornecera energia, disposição, aumento de força, vasodilatação exelênte durante e pós treino. Recomenda se não usar proximo a hora de dormir.",
+			"isValidated": false
+		},
+		{
+			"title": "Hemogenin",
+			"amount": "50mg/ml - 10ml (Injetável)",
+			"category": "injetado",
+			"image": false,
+			"description": "A oximetolona é um dos esteróides anabolizantes orais mais potentes que temos à nossa disposição, oral ou injetável comumente referido como Anadrol ou Hemogenin foi desenvolvido na década de 1960 para tratar anemia grave e doenças musculares e, como tal, é geralmente um esteroide anabolizante de alta qualidade para proporcionar ganhos maciços de peso em atletas. Quando se trata de adicionar tamanho bruto, este é sua maior característica.",
+			"isValidated": false
+		},
+		{
+			"title": "Hemogenin",
+			"amount": "50mg/caps - 20caps (Oral)",
+			"category": "oral",
+			"image": false,
+			"description": "A oximetolona é um dos esteróides anabolizantes orais mais potentes que temos à nossa disposição, oral ou injetável comumente referido como Anadrol ou Hemogenin foi desenvolvido na década de 1960 para tratar anemia grave e doenças musculares e, como tal, é geralmente um esteroide anabolizante de alta qualidade para proporcionar ganhos maciços de peso em atletas. Quando se trata de adicionar tamanho bruto, este é sua maior característica.",
+			"isValidated": false
+		}
+	]
 }
