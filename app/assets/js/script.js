@@ -117,7 +117,6 @@ form.onsubmit = e => {
 		})
 		.catch(err => {
 			console.log(err)
-			alert('Email não enviado, atualize a página e tente novamente!')
 			btnSubmit.innerHTML = 'Enviar'
 		})
 }
