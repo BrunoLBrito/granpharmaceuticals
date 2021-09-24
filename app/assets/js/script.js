@@ -9,6 +9,9 @@ let itemInjetado = document.querySelector('#injetado')
 let debug = document.querySelector('.debug')
 let show = document.querySelector('.show')
 let btnSubmit = document.querySelector('.btnSubmit')
+let copyright = document.querySelector('.copyright')
+
+copyright.innerHTML = `&copy; Copyright Gran Pharmaceuticals ${new Date().getFullYear()} - Idealized and Developed by <a href="mailto:bruno-lucas@msn.com">BLS.</a>`
 
 // Get the modal
 let modal = document.getElementById('myModal')
